@@ -1,0 +1,114 @@
+Status : COMPLETE - all checks passed
+Points : 40 / 40  (from check.py; counts only when the Git and GitHub checks pass)
+
+CS 1430 Assignment 2: The Cost of College
+GitHub user : kingdy1
+Repository  : https://github.com/kingdy1/Assignment2
+Commit      : edfd25c884b6415521710d40d9852230656683ba
+Message     : Finished assignment
+Author      : Dylan King <kingdy@uwplatt.edu>
+Committed   : 2026-10-19T21:08:35-05:00
+Checked     : 2026-10-19 21:09:41 Central Daylight Time
+Python      : 3.14.7
+
+================================================================
+CHECK RESULTS
+================================================================
+
+--- Toolchain ---
+[PASS] Python 3.14.7 is installed
+[PASS] main.py is in this folder
+[PASS] main.py runs without an error
+[PASS] The constants are unchanged
+[PASS] The launch lines are in place
+
+--- Your five functions (6 points each) ---
+[PASS] cost_per_semester gives back the right values  (6/6 pts)
+[PASS] cost_per_month gives back the right values  (6/6 pts)
+[PASS] cost_per_day gives back the right values  (6/6 pts)
+[PASS] cost_per_credit gives back the right values  (6/6 pts)
+[PASS] cost_per_class gives back the right values  (6/6 pts)
+
+--- Your program (10 points) ---
+[PASS] The menu runs from start to Q without an error  (5/5 pts)
+[PASS] Options 1 to 5 print all five amounts  (5/5 pts)
+
+--- Git and GitHub (required for your points to count) ---
+[PASS] Git is installed
+[PASS] This folder is a Git repository
+[PASS] You have committed your own work
+[PASS] Your latest changes are committed
+[PASS] Your repo is connected to GitHub
+[PASS] Your commit is pushed to GitHub
+
+POINTS FROM check.py: 40 / 40
+
+================================================================
+PROGRAM OUTPUT  (typed: 14601, 15, 1, 2, 3, 4, 5, Q)
+================================================================
+What is the total cost of your year of college? How many credits do you have this semester? 
+THE COST OF COLLEGE
+1 Per Semester
+2 Per Month
+3 Per Class Day
+4 Per Credit
+5 Per CS 1430 Class
+6 Every Minute Being Late
+Q Quit
+
+Choose an option: The cost per semester is $7300.50
+
+THE COST OF COLLEGE
+1 Per Semester
+2 Per Month
+3 Per Class Day
+4 Per Credit
+5 Per CS 1430 Class
+6 Every Minute Being Late
+Q Quit
+
+Choose an option: The cost per month is $1622.33
+
+THE COST OF COLLEGE
+1 Per Semester
+2 Per Month
+3 Per Class Day
+4 Per Credit
+5 Per CS 1430 Class
+6 Every Minute Being Late
+Q Quit
+
+Choose an option: The cost per day is $97.34
+
+THE COST OF COLLEGE
+1 Per Semester
+2 Per Month
+3 Per Class Day
+4 Per Credit
+5 Per CS 1430 Class
+6 Every Minute Being Late
+Q Quit
+
+Choose an option: The cost per credit is $486.70
+
+THE COST OF COLLEGE
+1 Per Semester
+2 Per Month
+3 Per Class Day
+4 Per Credit
+5 Per CS 1430 Class
+6 Every Minute Being Late
+Q Quit
+
+Choose an option: The cost per CS 1430 class is $32.45
+
+THE COST OF COLLEGE
+1 Per Semester
+2 Per Month
+3 Per Class Day
+4 Per Credit
+5 Per CS 1430 Class
+6 Every Minute Being Late
+Q Quit
+
+Choose an option: Buh bye
